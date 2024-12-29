@@ -1,6 +1,4 @@
-Contagem de palavras: 882
-
-ENTRADA NO DIÁRIO DE ARTUR LARA
+**ENTRADA NO DIÁRIO DE ARTUR LARA**
 
 Eu sonhei de novo. Não sei qual foi a causa desta vez, não aconteceu nada de especial ontem. Nada que já não tenha acontecido antes sem me fazer sonhar.
 
